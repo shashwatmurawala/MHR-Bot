@@ -100,7 +100,6 @@ question_index = 0
 
 def q1():
     global resources_lst
-    print(user_responses)
     if user_responses[1] == "y":
         resources_lst += "• https://www.canada.ca/en/public-health/services/chronic-diseases/mental-illness/what-help-myself-feel-depressed.html\n"
 
